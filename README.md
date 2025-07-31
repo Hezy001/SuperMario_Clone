@@ -1,17 +1,21 @@
 # Super Mario Game
 
-A complete Mario platformer game built with Pygame featuring 3 levels, enemies, collectibles, and smooth animations.
+**Version 1.0.1** - A complete Mario platformer game built with Pygame featuring 5 levels, enemies, collectibles, sound effects, and smooth animations.
 
 ## Features
 
-- **3 Complete Levels**: Each with increasing difficulty
+- **5 Complete Levels**: Each with increasing difficulty and varied platform layouts
 - **Mario Sprites**: Animated running, jumping, and idle states
-- **Enemy AI**: Koopa enemies with patrol behavior
+- **Advanced Enemy AI**: Koopa and Goomba enemies with varied behaviors
 - **Collectibles**: Coins to collect for points
-- **Sound Effects**: Jump sound and background music
+- **Complete Sound System**: Jump sound, background music, and all game effects
+- **Power-up System**: Mushrooms and stars with special effects
+- **Jumping Blocks**: Interactive blocks with jiggle effects and rewards
+- **Varied Platforms**: Different sizes and challenging layouts
 - **Lives System**: 3 lives with respawn mechanics
-- **Score System**: Points for collecting coins
+- **Score System**: Points for collecting coins and hitting blocks
 - **Smooth Controls**: Responsive movement and jumping
+- **Camera System**: Advanced camera with smooth following and effects
 
 ## Controls
 
